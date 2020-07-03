@@ -1,0 +1,239 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1080;
+	--web-view-id: Web_1920__1080;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1080;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1080 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(12,12,57,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1080;
+	--web-view-id: Web_1920__1080;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#bg-desktop {
+	position: absolute;
+	width: 1920px;
+	height: 560px;
+	left: 0px;
+	top: 520px;
+	overflow: visible;
+}
+#bg-desktop_h {
+	opacity: 0.78;
+	position: absolute;
+	width: 448px;
+	height: 221px;
+	left: 385.373px;
+	top: 410.242px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	opacity: 0.78;
+	fill: rgba(27,38,95,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 617px;
+	height: 174px;
+	left: 889px;
+	top: 461px;
+}
+#logo {
+	fill: rgba(255,255,255,1);
+}
+.logo {
+	overflow: visible;
+	position: absolute;
+	width: 161.153px;
+	height: 44.694px;
+	left: 425px;
+	top: 452px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_2 {
+	fill: rgba(12,12,57,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	height: 63px;
+	left: 436px;
+	top: 527px;
+}
+#Rectangle_2_l {
+	fill: rgba(12,12,57,1);
+}
+.Rectangle_2_l {
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	height: 63px;
+	left: 534px;
+	top: 527px;
+}
+#Rectangle_2_m {
+	fill: rgba(12,12,57,1);
+}
+.Rectangle_2_m {
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	height: 63px;
+	left: 635px;
+	top: 527px;
+}
+#icon-folder {
+	fill: rgba(105,126,212,1);
+}
+.icon-folder {
+	overflow: visible;
+	position: absolute;
+	width: 34px;
+	height: 28px;
+	left: 546.316px;
+	top: 543px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#icon-document {
+	fill: rgba(105,126,212,1);
+}
+.icon-document {
+	overflow: visible;
+	position: absolute;
+	width: 26.368px;
+	height: 29.5px;
+	left: 453px;
+	top: 542px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#icon-upload {
+	fill: rgba(105,126,212,1);
+}
+.icon-upload {
+	overflow: visible;
+	position: absolute;
+	width: 37px;
+	height: 26px;
+	left: 647px;
+	top: 544px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Youve_used_815_GB_of_your_stor {
+	left: 938px;
+	top: 497px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_2_r {
+	fill: rgba(12,12,57,1);
+}
+.Rectangle_2_r {
+	position: absolute;
+	overflow: visible;
+	width: 539px;
+	height: 30px;
+	left: 910px;
+	top: 540px;
+}
+#Rectangle_3_t {
+	fill: url(#Rectangle_3_t);
+}
+.Rectangle_3_t {
+	position: absolute;
+	overflow: visible;
+	width: 404px;
+	height: 21px;
+	left: 914px;
+	top: 545px;
+}
+#Ellipse_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 15.5px;
+	height: 15.5px;
+	left: 1300px;
+	top: 547px;
+}
+#ID0_GB {
+	left: 910px;
+	top: 581px;
+	position: fixed;
+	overflow: visible;
+	width: 33px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#ID1000_GB {
+	left: 1394px;
+	top: 581px;
+	position: absolute;
+	overflow: visible;
+	width: 56px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,255,255,1);
+}
+#Image_1 {
+	position: absolute;
+	width: 186px;
+	height: 112px;
+	left: 1286px;
+	top: 410px;
+	overflow: visible;
+}
+#_185__GB_LEFT_ {
+	left: 1300px;
+	top: 422px;
+	position: absolute;
+	overflow: visible;
+	width: 152px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Raleway;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 37px;
+	color: rgba(10,10,26,1);
+}
